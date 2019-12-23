@@ -4,7 +4,7 @@
 # pandaCard
 脑子发热去创业，血本无归赔的只剩裤衩一条，心灰意冷下开源代码，就当花钱促进社会发展吧。本游戏是一款策略卡牌游戏，类似少年西游记，少年三国志，我叫mt等卡牌体系，客户端使用cocos2d-js-3.12，跨平台。服务端使用openresty，lua语言。经过严格测试，就差最后上线一哆嗦，没钱烧就流产了,差支付和渠道平台的sdk接入。
 
-这个是客户端，服务端请传送到https://github.com/hipandyu/pandaCardServer
+这个是服务端，客服端请传送到https://github.com/hipandyu/pandaCard
 
 # 我们提供精品源码，代码完整，可演示，凡购买源码者提供免费的部署搭建，技术支持，qq:2805477110，wps地址：https://kdocs.cn/l/sXPI9WZ90?f=111[文档] 精品游戏源码-不断更新中.xlsx
 
