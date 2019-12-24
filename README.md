@@ -6,7 +6,8 @@
 
 这个是服务端，客服端请传送到https://github.com/hipandyu/pandaCard
 
-# 我们提供精品源码，代码完整，可演示，凡购买源码者提供免费的部署搭建，技术支持，qq:2805477110，wps地址：https://kdocs.cn/l/sXPI9WZ90?f=111[文档] 精品游戏源码-不断更新中.xlsx
+# 我们提供精品源码，完整可演示，凡购买源码者提供免费技术支持，qq:2805477110，wps地址（在浏览器中打开）：https://kdocs.cn/l/sXPI9WZ90?f=111[文档] 精品游戏源码-不断更新中.xlsx。
+# 《我叫MT3》《秦时明月2》《众神之光》《传奇世界》《大圣西游》《大圣轮回》《空空西游》
 
 下图是部分功能，比较完整详细的功能列表请移步查看:https://raw.githubusercontent.com/hipandyu/pandaCard/master/pandaCard功能表.png
 ![部分功能](https://raw.githubusercontent.com/hipandyu/pandaCard/master/主要功能%402x.png)
